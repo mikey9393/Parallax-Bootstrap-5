@@ -1,0 +1,33 @@
+body {
+    background-repeat: no-repeat;
+    background-size: 100rem 100rem;
+  }
+  /* h1{
+    background-color: beige;
+    opacity: 75%;
+  } */
+  #top{
+    padding-top: 12.5em;
+  }
+  #sec1{
+    padding-top: 4em;
+  }
+  #sec2{
+    padding-top: 4em;
+  }
+  #sec3{
+    padding-top: 4em;
+  }
+  #sec4{
+    padding-top: 4em;
+  }
+  #sec5{
+    padding-top: 4em;
+  }
+  ul{
+    list-style-type: none;
+  }
+  
+  
+  
+
